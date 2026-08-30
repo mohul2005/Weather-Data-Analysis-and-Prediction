@@ -1,0 +1,5 @@
+.specstory/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
